@@ -1,9 +1,9 @@
 1:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/_next/static/css/f55dd9bdf128f32c.css","style"]
-0:["52wA2w9UgWKJPx__ciY8h",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f55dd9bdf128f32c.css","precedence":"next"}]],"$L4"]]]]
-5:I{"id":2564,"chunks":["884:static/chunks/884-60e69d463ef50eb1.js","627:static/chunks/627-81697fadff87e9dd.js","185:static/chunks/app/layout-f2901681d7e6c883.js"],"name":"Providers","async":false}
-6:I{"id":1443,"chunks":["272:static/chunks/webpack-838fae9170304485.js","971:static/chunks/fd9d1056-9bc591f40a60a661.js","864:static/chunks/864-9fe3ad10f90e6511.js"],"name":"","async":false}
-7:I{"id":8639,"chunks":["272:static/chunks/webpack-838fae9170304485.js","971:static/chunks/fd9d1056-9bc591f40a60a661.js","864:static/chunks/864-9fe3ad10f90e6511.js"],"name":"","async":false}
+2:HL["/_next/static/css/7b4016282e51735b.css","style"]
+0:["nmu7q6RlN0GgxkOCQklSm",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b4016282e51735b.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":2564,"chunks":["884:static/chunks/884-60e69d463ef50eb1.js","627:static/chunks/627-81697fadff87e9dd.js","185:static/chunks/app/layout-6a18cf1900470495.js"],"name":"Providers","async":false}
+6:I{"id":1443,"chunks":["272:static/chunks/webpack-cb407819b1d3d6e9.js","971:static/chunks/fd9d1056-9bc591f40a60a661.js","864:static/chunks/864-9fe3ad10f90e6511.js"],"name":"","async":false}
+7:I{"id":8639,"chunks":["272:static/chunks/webpack-cb407819b1d3d6e9.js","971:static/chunks/fd9d1056-9bc591f40a60a661.js","864:static/chunks/864-9fe3ad10f90e6511.js"],"name":"","async":false}
 9:I{"id":1511,"chunks":["884:static/chunks/884-60e69d463ef50eb1.js","976:static/chunks/976-3bd6a1e0de3cd1a0.js","931:static/chunks/app/page-30f798ea7ac77e16.js"],"name":"","async":false}
 a:I{"id":6964,"chunks":["884:static/chunks/884-60e69d463ef50eb1.js","976:static/chunks/976-3bd6a1e0de3cd1a0.js","931:static/chunks/app/page-30f798ea7ac77e16.js"],"name":"Image","async":false}
 b:I{"id":7309,"chunks":["884:static/chunks/884-60e69d463ef50eb1.js","976:static/chunks/976-3bd6a1e0de3cd1a0.js","931:static/chunks/app/page-30f798ea7ac77e16.js"],"name":"Avatar","async":false}
