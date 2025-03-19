@@ -2660,3 +2660,8 @@ body {
 .\[\&_tr\]\:border-b tr {
   border-bottom-width: 1px;
 }
+#container {
+  background-image: url(../../../dzieckoBawisie.webp);
+  background-size: cover;
+  opacity: 0.6;
+}
